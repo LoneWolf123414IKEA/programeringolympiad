@@ -1,32 +1,45 @@
-﻿using System;
+using System;
 namespace kap3upp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string inp = Console.ReadLine();
-            int temp = 0;
-            int sto;
-            int cnt = 0;
-            int cnt1 = 0;
-            foreach(int i in inp)
+            Console.WriteLine("How log does it take tor to eat?");
+            int tor = int.Parse(Console.ReadLine());
+            Console.WriteLine("How log does it take mom to eat?");
+            int mom = int.Parse(Console.ReadLine());
+            int tors = 0;
+            int moms = 0;
+            int torc = 1;
+            int momc = 1;
+            int crrts = 0;
+            while (crrts<38)
             {
-                sto = temp;
-                temp = i - 48;
-                if (sto == 1 || sto == 2)
+                if ((tors == tor) && (moms == mom) && (crrts == 37))
                 {
-                    if (temp == 1 || temp == 2)
-                    {
-                        cnt1++;
-                    }
-                    else
-                    {
-                        cnt++;
-                    }
+                    break;
                 }
+                else if (tor == tors)
+                {
+                    tors = 0;
+                    torc++;
+                    crrts++;
+                }
+                if ((tors == tor) && (moms == mom) && (crrts == 39))
+                {
+                    break;
+                }
+                else if (mom == moms)
+                {
+                    moms = 0;
+                    momc++;
+                    crrts++;
+                }
+                moms++;
+                tors++;
             }
-            Console.WriteLine(cnt + " " + cnt1);
+            Console.WriteLine("tor ate " + torc + " carrots and mom ate " + momc + " carrots!");
         }
     }
 }
