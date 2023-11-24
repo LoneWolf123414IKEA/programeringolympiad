@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\bin\Debug\net7.0\uppg1.exe
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\bin\Debug\net7.0\uppg1.deps.json
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\bin\Debug\net7.0\uppg1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\bin\Debug\net7.0\uppg1.dll
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\bin\Debug\net7.0\uppg1.pdb
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.dll
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\refint\uppg1.dll
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.pdb
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\uppg1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\programeringolympiad\uppg1\obj\Debug\net7.0\ref\uppg1.dll
